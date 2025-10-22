@@ -30,3 +30,4 @@ In your `if (userInput < 0)` block, you called `main();` to restart the program.
         * Print the error message: `cout << "Please enter 0 or higher";`
         * Ask for the number *again*: `cin >> userInput;`
 * **Note to Remember:** Use a **loop** (like `while` or `do-while`) to validate input, not a recursive call to `main()`.
+
